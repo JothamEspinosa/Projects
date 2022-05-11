@@ -1,0 +1,135 @@
+[Files]
+Cursor1.X=17
+Group2=0
+Group0=0
+ZIndex1=0
+WordWrap4=0
+IsActive1=1
+Scroll0.0.X=0
+IsSplitted1=0
+Scroll2.0.Y=0
+IsSplitted4=0
+Cursor0.Y=3
+File0=C:\Users\Jotham Espinosa\OneDrive\Documents\NuSphere PhpED\NewProj\Feedback.php
+File4=C:\Users\Jotham Espinosa\OneDrive\Documents\NuSphere PhpED\NewProj\index.php
+IsSplitted2=0
+Cursor3.X=33
+Group3=0
+Files=5
+WordWrap1=0
+Cursor4.Y=0
+Scroll1.0.X=0
+Cursor3.Y=2
+Scroll3.0.X=0
+WordWrap0=0
+IsSplitted3=0
+ZIndex3=3
+ZIndex0=1
+Cursor0.X=27
+Cursor1.Y=13
+IsSplitted0=0
+WordWrap2=0
+Scroll3.0.Y=0
+ZIndex2=4
+Group4=0
+Cursor2.X=0
+Cursor2.Y=20
+Cursor4.X=0
+Scroll2.0.X=0
+File2=C:\Users\Jotham Espinosa\OneDrive\Documents\NuSphere PhpED\NewProj\includes\DBLINK.php
+File3=C:\Users\Jotham Espinosa\OneDrive\Documents\NuSphere PhpED\NewProj\Footer.php
+Scroll0.0.Y=0
+Scroll4.0.Y=4
+File1=C:\Users\Jotham Espinosa\OneDrive\Documents\NuSphere PhpED\NewProj\Welcome.php
+Scroll4.0.X=0
+Scroll1.0.Y=0
+Group1=0
+WordWrap3=0
+ZIndex4=2
+
+[Workset]
+ActiveWorkset=
+Worksets=0
+
+[workspace]
+Workspace2:NewProj:includes=1
+ActiveProject=NewProj
+Workspace2:NewProj=1
+
+[Info]
+Comments=
+LastUsed=44501.1635264931
+Created=0.291666666666667
+Version=19.5
+
+[watches]
+count=0
+
+[Groups]
+Groups=1
+
+[breakpoints]
+bp_2_ispublishing=0
+bp_1_ispublishing=0
+bp_0_skiphits=0
+bp_3_condition=
+bp_1_skiphits=0
+bp_0_file=C:\Users\Jotham Espinosa\OneDrive\Documents\NuSphere PhpED\NewProj\Register.php
+bp_2_file=C:\Users\Jotham Espinosa\OneDrive\Documents\NuSphere PhpED\NewProj\RegistrationForm.php
+bp_0_condition=
+bp_1_file=C:\Users\Jotham Espinosa\OneDrive\Documents\NuSphere PhpED\NewProj\Register.php
+bp_0_isremote=0
+bp_0_state=2
+bp_1_line=72
+bp_2_condition=
+bp_0_ispublishing=0
+bp_3_line=71
+bp_3_file=C:\Users\Jotham Espinosa\OneDrive\Documents\NuSphere PhpED\NewProj\RegistrationForm.php
+bp_1_state=2
+bp_3_ispublishing=0
+bp_2_isremote=0
+bp_2_line=68
+bp_1_condition=
+bp_2_state=2
+bp_3_isremote=0
+bp_3_skiphits=0
+bp_2_skiphits=0
+bp_count=4
+bp_3_state=2
+bp_1_isremote=0
+bp_0_line=10
+
+[parameters]
+value=LCw
+
+[MRUFiles]
+File5=C:\Users\Jotham Espinosa\OneDrive\Documents\NuSphere PhpED\NewProj\noname1.php
+File19=C:\Users\Jotham Espinosa\OneDrive\Documents\NuSphere PhpED\NewProj\noname4.php
+File7=C:\Users\Jotham Espinosa\OneDrive\Documents\NuSphere PhpED\NewProj\Home.php
+File24=C:\Users\Jotham Espinosa\OneDrive\Documents\NuSphere PhpED\NewProj\Assignment1point4.php
+File18=C:\Users\Jotham Espinosa\OneDrive\Documents\NuSphere PhpED\NewProj\secure_email_code.php
+File16=C:\Users\Jotham Espinosa\OneDrive\Documents\NuSphere PhpED\NewProj\photos\2021-04-24 (9).png
+File15=C:\Users\Jotham Espinosa\OneDrive\Documents\NuSphere PhpED\NewProj\upload.php
+File13=C:\Users\Jotham Espinosa\OneDrive\Documents\NuSphere PhpED\NewProj\uploads.php
+File6=C:\Users\Jotham Espinosa\OneDrive\Documents\NuSphere PhpED\NewProj\About.php
+File22=C:\Users\Jotham Espinosa\OneDrive\Documents\NuSphere PhpED\NewProj\reset.php
+File23=C:\Users\Jotham Espinosa\OneDrive\Documents\NuSphere PhpED\NewProj\includes\Profile.php
+File26=C:\Users\Jotham Espinosa\OneDrive\Documents\NuSphere PhpED\NewProj\Assignment1point2.php
+File25=C:\Users\Jotham Espinosa\OneDrive\Documents\NuSphere PhpED\NewProj\Assignment1point3.php
+Count=28
+File21=C:\Users\Jotham Espinosa\AppData\Local\Temp\Temp1_Sound_Live_Input_2021_10_18_21_34_48.zip\style.css
+File1=C:\Users\Jotham Espinosa\OneDrive\Documents\NuSphere PhpED\NewProj\Welcome.php
+File14=C:\Users\Jotham Espinosa\OneDrive\Documents\NuSphere PhpED\NewProj\HTMLstuff.php
+File2=C:\Users\Jotham Espinosa\OneDrive\Documents\NuSphere PhpED\NewProj\includes\DBLINK.php
+File20=C:\Users\Jotham Espinosa\OneDrive\Documents\NuSphere PhpED\NewProj\Profile.php
+File8=C:\Users\Jotham Espinosa\OneDrive\Documents\NuSphere PhpED\NewProj\Info.php
+File11=C:\Users\Jotham Espinosa\OneDrive\Documents\NuSphere PhpED\NewProj\Register.php
+File10=C:\Users\Jotham Espinosa\OneDrive\Documents\NuSphere PhpED\NewProj\Logout.php
+File17=C:\Users\Jotham Espinosa\OneDrive\Documents\NuSphere PhpED\NewProj\CSS.css
+File12=C:\Users\Jotham Espinosa\OneDrive\Documents\NuSphere PhpED\NewProj\RegistrationForm.php
+File9=C:\Users\Jotham Espinosa\OneDrive\Documents\NuSphere PhpED\NewProj\Login.php
+File4=C:\Users\Jotham Espinosa\OneDrive\Documents\NuSphere PhpED\NewProj\index.php
+File0=C:\Users\Jotham Espinosa\OneDrive\Documents\NuSphere PhpED\NewProj\Feedback.php
+File27=C:\Users\Jotham Espinosa\OneDrive\Documents\NuSphere PhpED\NewProj\Assignment1.php
+File3=C:\Users\Jotham Espinosa\OneDrive\Documents\NuSphere PhpED\NewProj\Footer.php
+
